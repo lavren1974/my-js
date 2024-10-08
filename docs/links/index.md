@@ -18,11 +18,11 @@ __Паттерны проектирования__
 
 - :link:&nbsp;&nbsp; ["Паттерны проектирования". Refactoring Guru](https://refactoring.guru/ru/design-patterns)
 - :link:&nbsp;&nbsp; ["Learning JavaScript Design Patterns". Addy Osmani](https://addyosmani.com/resources/essentialjsdesignpatterns/book/)
-- :link:&nbsp;&nbsp; ["Паттерны объектно-ориентированного проектирования". Банда четырех](./assets/design_patterns.pdf)
 
 __Алгоритмы и структуры данных__
 
-- :link:&nbsp;&nbsp; [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms) - алгоритмы и структуры данных, реализованные на JavaScript с объяснениями и ссылками для дальнейшего изучения
+- :link:&nbsp;&nbsp; [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)
+- :link:&nbsp;&nbsp; [The Algorithms - JavaScript](https://github.com/TheAlgorithms/JavaScript)
 - :link:&nbsp;&nbsp; ["Грокаем алгоритмы". Адитья Бхаргава](./assets/grokking_algorithms.pdf)
 
 __Вопросы и задачи__
@@ -68,3 +68,4 @@ __Вопросы и задачи__
 - :link:&nbsp;&nbsp; [FlatIcon](https://www.flaticon.com/)
 - :link:&nbsp;&nbsp; [Настройки `Prettier`](https://prettier.io/docs/en/options.html)
 - :link:&nbsp;&nbsp; [Список правил `ESLint`](https://eslint.org/docs/rules/)
+- :link:&nbsp;&nbsp; [System Design (на английском)](./assets/system_design.pdf)

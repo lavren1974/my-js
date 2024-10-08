@@ -48,3 +48,12 @@ title: Содержание
 - :memo:&nbsp;&nbsp;[Шпаргалка по Markdown](./markdown)
 - :memo:&nbsp;&nbsp;[Шпаргалка по Netlify](./netlify)
 - :memo:&nbsp;&nbsp;[Шпаргалка по модулю FS (Node.js)](./fs)
+
+---
+
+- :memo:&nbsp;&nbsp;[System Design 101](./system-design-101)
+- :memo:&nbsp;&nbsp;[Вопросы по DevOps](./devops)
+
+---
+
+- :memo:&nbsp;&nbsp;[Большая шпаргалка по Rust](./rust)

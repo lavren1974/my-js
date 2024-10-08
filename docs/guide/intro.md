@@ -35,4 +35,10 @@ title: Содержание
 - :page_with_curl:&nbsp;&nbsp;[Руководство по Socket.IO](./socket)
 - :page_with_curl:&nbsp;&nbsp;[WebRTC для всех и каждого](./webrtc)
 - :page_with_curl:&nbsp;&nbsp;[Руководство по веб-потокам (Node.js)](./web-streams)
-- :page_with_curl:&nbsp;&nbsp;[Руководство по NestJS](./nest)
+
+---
+
+- :page_with_curl:&nbsp;&nbsp;[Практическое руководство по Rust](./rust)
+- :page_with_curl:&nbsp;&nbsp;[Книга рецептов Rust](./rust-cookbook)
+- :page_with_curl:&nbsp;&nbsp;[Туториал по Tokio](./tokio)
+- :page_with_curl:&nbsp;&nbsp;[Учимся летать - симуляция эволюции на Rust](./shorelark)

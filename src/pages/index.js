@@ -79,8 +79,7 @@ export default function Home() {
             <a href='docs/cheatsheet/intro-cheatsheet'>шпаргалки</a>,{' '}
             <a href='docs/other/intro-other'>вопросы и другие материалы</a> по
             JavaScript, TypeScript, React, Next.js, Node.js, Express, Prisma,
-            GraphQL, Docker и другим технологиям, а также{' '}
-            <a href='blog'>Блог по веб-разработке</a>.
+            GraphQL, Docker, Rust и другим технологиям.
           </p>
 
           <div className={styles.buttons}>
@@ -96,13 +95,15 @@ export default function Home() {
           </div>
 
           <p className='hero__subtitle small'>
-            Обновление от 16.04.2023:
+            Обновление от 03.07.2024:
             <br />
-            <a href='docs/guide/trpc'>Руководство по tRPC</a>
+            <a href='docs/guide/shorelark'>
+              Учимся летать - симуляция эволюции на Rust
+            </a>
           </p>
 
           <p className='hero__subtitle small'>
-            Материалы находятся в свободном доступе. <br />
+            Материалы находятся в свободном доступе (лицензия MIT). <br />
             Ссылки на приложение приветствуются.
           </p>
         </div>
